@@ -1,0 +1,5 @@
+print ("Limsa Lominsa")
+print ("Gridania")
+print ("Ul'dah")
+print ("ishgard")
+print ("Kugane")
